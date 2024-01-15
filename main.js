@@ -1,0 +1,2 @@
+drawText('code blossom');
+bounceBubbles();
